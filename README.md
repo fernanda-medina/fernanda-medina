@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Fernanda Medina! 👋
 
-<!--
-**fernanda-medina/fernanda-medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (atualmente no 3º período) e apaixonada por tecnologia. Busco aplicar meus conhecimentos teóricos em projetos práticos e estou em busca da minha primeira oportunidade no mercado como **Estagiária ou Desenvolvedora Júnior**.
 
-Here are some ideas to get you started:
+### 👩‍💻 Sobre mim
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
+- 🚀 Desenvolvendo projetos práticos unindo o design do ecossistema Web com a lógica de Python.
+- 🌱 No momento, estou aprofundando meus conhecimentos em **Python (Django/Flask)** e integração com bancos de dados.
+- 💬 Fale comigo sobre: Desenvolvimento Web, lógica de programação e automações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript (Básico)
+- **Backend:** Python
+- **Ferramentas & Ambientes:** Git, GitHub, VS Code
+
+### 📈 Meus Objetivos Atuais
+- Concluir projetos web responsivos e semanticamente corretos.
+- Construir APIs e aplicações completas utilizando Python.
+- Conquistar uma vaga de estágio para evoluir em ambiente profissional.
+
+### 📫 Vamos nos conectar?
+- 💼 LinkedIn: https://www.linkedin.com/in/fernanda-medina-b98492417
+- 📧 E-mail: nanda.insted@gmail.com
