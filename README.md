@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (atualmente no 3º p
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Frontend:** HTML5, CSS3, JavaScript (Básico)
-- **Backend:** Python
+- **Backend:** Python, PhP (Básico)
 - **Ferramentas & Ambientes:** Git, GitHub, VS Code
 
 ### 📈 Meus Objetivos Atuais
